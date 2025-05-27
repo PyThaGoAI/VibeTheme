@@ -175,3 +175,17 @@ Explore **VibeTheme** and discover how far your creativity can go.
 We’re here to **learn**, **grow**, and **create** with those who believe in a smarter, more connected world.
 
 Together, let’s build the future — one template at a time. ✨
+
+## 🌐 Find Me Online
+
+- 🧠 **GitHub**: [PyThaGoAI](https://github.com/PyThaGoAI)
+- 🔗 **LinkedIn**: [Sas Cristian](https://www.linkedin.com/in/sascristian)
+- 🤖 **Hugging Face**: [PyThaGo](https://huggingface.co/PyThaGo)
+- 💼 **UpWork**: *(link missing — you can add it if you have one)*
+- 🚀 **Product Hunt**: [@sas_cristian](https://www.producthunt.com/@sas_cristian)
+- 🛠️ **Codester**: [TeamPresta](https://www.codester.com/TEAMPRESTA)
+- 🎁 **Gumroad**: [iunoub Toolkit](https://sascristian.gumroad.com/l/iunoub)
+- ☕ **Buy Me a Coffee**: [sascristiav](https://buymeacoffee.com/sascristiav)
+- 💬 **Discord**: [Join Community](https://discord.gg/fhAUFF6d)
+- 👕 **Merch Store**: [VibeMerch](https://vibemerch.printify.me)
+
