@@ -1,7 +1,4 @@
 # VibeTheme
-
-
-
 🎨 Introducing VibeTheme – Freemium Templates. Infinite Possibilities.
 
 Welcome to VibeTheme, the heart of the VibeGalaxi experience — a premium catalog of stunning, high-performance themes and templates, crafted for creators who move fast and think big 🌟.
@@ -21,6 +18,19 @@ Welcome to VibeTheme.
 🔓 Includes Open Source Files
 
 We believe in creative freedom. That’s why every VibeTheme comes with access to the open-source codebase 🧩 — fork it, remix it, own it.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 🤖 Why AI? Because Speed Wins.
