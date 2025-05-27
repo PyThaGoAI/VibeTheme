@@ -6,6 +6,13 @@ Welcome to **VibeTheme**, the design engine behind the **VibeGalaxi** experience
 
 ---
 
+🛠️ Tech Stack
+- **TypeScript** – Robust and scalable development. 💪  
+- **Next.js** – Fast performance and SEO-optimized. ⚡🔍  
+- **Vercel** – Secure and scalable hosting. 🛡️🌐  
+- **Tailwind CSS** – Modern and responsive design. 🎨📱  
+- **Supabase** – Real-time PostgreSQL database. 🔄🗄️
+
 ## 🚀 What is VibeTheme?
 
 **VibeTheme** is a growing catalog of beautifully crafted, AI-enhanced themes and templates for modern creators. From ecommerce storefronts to personal websites and intelligent dashboards — VibeTheme helps you build faster, smarter, and better.
@@ -27,15 +34,6 @@ No code? No problem. VibeTheme is made for makers at every level.
     <strong>🌟 </strong><a href="!"><strong>Freemium Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Documentation</strong></a>
 </p>
 
-🛠️ Tech Stack
-- **TypeScript** – Robust and scalable development. 💪  
-- **Next.js** – Fast performance and SEO-optimized. ⚡🔍  
-- **Vercel** – Secure and scalable hosting. 🛡️🌐  
-- **Tailwind CSS** – Modern and responsive design. 🎨📱  
-- **Supabase** – Real-time PostgreSQL database. 🔄🗄️
-
-
-
 
 ---
 <h1>BeePulse Dashboard</h1>
@@ -45,15 +43,6 @@ No code? No problem. VibeTheme is made for makers at every level.
 <p>
     <strong>🌟 </strong><a href="!"><strong>Freemium Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Documentation</strong></a>
 </p>
-
-🛠️ Tech Stack
-- **TypeScript** – Robust and scalable development. 💪  
-- **Next.js** – Fast performance and SEO-optimized. ⚡🔍  
-- **Vercel** – Secure and scalable hosting. 🛡️🌐  
-- **Tailwind CSS** – Modern and responsive design. 🎨📱  
-- **Supabase** – Real-time PostgreSQL database. 🔄🗄️
-
-
 
 
 ---
@@ -65,14 +54,6 @@ No code? No problem. VibeTheme is made for makers at every level.
     <strong>🌟 </strong><a href="!"><strong>Freemium Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Documentation</strong></a>
 </p>
 
-🛠️ Tech Stack
-- **TypeScript** – Robust and scalable development. 💪  
-- **Next.js** – Fast performance and SEO-optimized. ⚡🔍  
-- **Vercel** – Secure and scalable hosting. 🛡️🌐  
-- **Tailwind CSS** – Modern and responsive design. 🎨📱  
-- **Supabase** – Real-time PostgreSQL database. 🔄🗄️
-
-
 
 ---
 <h1>InduPulse Dashboard</h1>
@@ -83,12 +64,6 @@ No code? No problem. VibeTheme is made for makers at every level.
     <strong>🌟 </strong><a href="!"><strong>Freemium Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Documentation</strong></a>
 </p>
 
-🛠️ Tech Stack
-- **TypeScript** – Robust and scalable development. 💪  
-- **Next.js** – Fast performance and SEO-optimized. ⚡🔍  
-- **Vercel** – Secure and scalable hosting. 🛡️🌐  
-- **Tailwind CSS** – Modern and responsive design. 🎨📱  
-- **Supabase** – Real-time PostgreSQL database. 🔄🗄️
 
 ---
 <h1>CityPulse Dashboard</h1>
@@ -99,13 +74,6 @@ No code? No problem. VibeTheme is made for makers at every level.
     <strong>🌟 </strong><a href="!"><strong>Freemium Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Documentation</strong></a>
 </p>
 
-🛠️ Tech Stack
-- **TypeScript** – Robust and scalable development. 💪  
-- **Next.js** – Fast performance and SEO-optimized. ⚡🔍  
-- **Vercel** – Secure and scalable hosting. 🛡️🌐  
-- **Tailwind CSS** – Modern and responsive design. 🎨📱  
-- **Supabase** – Real-time PostgreSQL database. 🔄🗄️
-
 ---
 <h1>BioPulse Dashboard</h1>
 
@@ -115,12 +83,6 @@ No code? No problem. VibeTheme is made for makers at every level.
     <strong>🌟 </strong><a href="!"><strong>Freemium Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Documentation</strong></a>
 </p>
 
-🛠️ Tech Stack
-- **TypeScript** – Robust and scalable development. 💪  
-- **Next.js** – Fast performance and SEO-optimized. ⚡🔍  
-- **Vercel** – Secure and scalable hosting. 🛡️🌐  
-- **Tailwind CSS** – Modern and responsive design. 🎨📱  
-- **Supabase** – Real-time PostgreSQL database. 🔄🗄️
 
 ---
 <h1>HomeSphere Dashboard</h1>
@@ -131,12 +93,6 @@ No code? No problem. VibeTheme is made for makers at every level.
     <strong>🌟 </strong><a href="!"><strong>Freemium Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Documentation</strong></a>
 </p>
 
-🛠️ Tech Stack
-- **TypeScript** – Robust and scalable development. 💪  
-- **Next.js** – Fast performance and SEO-optimized. ⚡🔍  
-- **Vercel** – Secure and scalable hosting. 🛡️🌐  
-- **Tailwind CSS** – Modern and responsive design. 🎨📱  
-- **Supabase** – Real-time PostgreSQL database. 🔄🗄️
 
 ---
 <h1>FlexiKPI Dashboard</h1>
@@ -146,13 +102,6 @@ No code? No problem. VibeTheme is made for makers at every level.
 <p>
     <strong>🌟 </strong><a href="!"><strong>Freemium Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Documentation</strong></a>
 </p>
-
-🛠️ Tech Stack
-- **TypeScript** – Robust and scalable development. 💪  
-- **Next.js** – Fast performance and SEO-optimized. ⚡🔍  
-- **Vercel** – Secure and scalable hosting. 🛡️🌐  
-- **Tailwind CSS** – Modern and responsive design. 🎨📱  
-- **Supabase** – Real-time PostgreSQL database. 🔄🗄️
 
 ---
 
