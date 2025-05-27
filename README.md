@@ -18,6 +18,8 @@ Welcome to **VibeTheme**, the design engine behind the **VibeGalaxi** experience
 
 No code? No problem. VibeTheme is made for makers at every level.
 
+---
+
 ![alt text](https://pythago.ai/mthemes/AgriTech.png)
 <p>
     <strong>🌟 </strong><a href="!"><strong>Freemium Demo</strong></a>
