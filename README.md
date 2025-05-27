@@ -80,7 +80,6 @@ Explore **VibeTheme** and discover how far your creativity can go.
 
 ## 🛸 Stay Connected
 
-📦 Explore more on [4found.com](https://4found.com)  
 🌌 Join our growing community at **VibeGalaxi**, where your ideas shine  
 💬 Questions, feedback, or collabs? Drop us a message!
 
