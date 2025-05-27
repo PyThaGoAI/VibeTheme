@@ -141,7 +141,7 @@ VibeTheme offers both **free** and **premium** experiences.
 ### 🎁 Free Version Includes:
 - Open-source templates
 - Access to community releases
-- Basic documentation
+- Freemium Remix on Lovable
 
 ### 🚀 Premium Includes:
 - Early access to new themes
