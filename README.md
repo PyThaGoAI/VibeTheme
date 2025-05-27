@@ -24,16 +24,6 @@ No code? No problem. VibeTheme is made for makers at every level.
 <p>
     <strong>🌟 </strong><a href="!"><strong>Freemium Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Documentation</strong></a>
 </p>
-<p>
-    <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>
-</p>
-<p>
-    <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>
-</p>
-<p>
-    <strong>📚 </strong><a href="!"><strong>Documentation</strong></a>
-</p>
-
 🛠️ Tech Stack
 - **TypeScript** – Robust and scalable development. 💪  
 - **Next.js** – Fast performance and SEO-optimized. ⚡🔍  
