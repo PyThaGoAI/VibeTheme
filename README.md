@@ -31,15 +31,14 @@ No code? No problem. VibeTheme is made for makers at every level.
 <p>
     <strong>📚 </strong><a href="!"><strong>Documentation</strong></a>
 </p>
-<p>
-    🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-TypeScript: Robust and scalable development. 💪
-Next.js: Fast performance and SEO-optimized. ⚡🔍
-Vercel: Secure and scalable hosting. 🛡️🌐
-Tailwind CSS: Modern and responsive design. 🎨📱
-Supabase: Real-time PostgreSQL database. 🔄🗄️
-</p>
+- **TypeScript** – Robust and scalable development. 💪  
+- **Next.js** – Fast performance and SEO-optimized. ⚡🔍  
+- **Vercel** – Secure and scalable hosting. 🛡️🌐  
+- **Tailwind CSS** – Modern and responsive design. 🎨📱  
+- **Supabase** – Real-time PostgreSQL database. 🔄🗄️
+
 
 ---
 
