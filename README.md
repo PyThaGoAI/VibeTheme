@@ -154,6 +154,8 @@ No code? No problem. VibeTheme is made for makers at every level.
 - **Tailwind CSS** – Modern and responsive design. 🎨📱  
 - **Supabase** – Real-time PostgreSQL database. 🔄🗄️
 
+---
+
 ## 🌌 Built for Speed. Designed for Creativity.
 
 With VibeTheme, you're not just downloading templates — you're joining a movement:
