@@ -1,5 +1,7 @@
 # VibeTheme
 
+![alt text](https://pythago.ai/mthemes/VBT.png)
+
 🎨 **Introducing VibeTheme – Freemium Templates. Infinite Possibilities.**
 
 Welcome to **VibeTheme**, the design engine behind the **VibeGalaxi** experience — a premium collection of high-performance templates built for creators who move fast and think big. Whether you're launching a startup, a portfolio, or the next big thing in ecommerce — there's a Vibe for that. 🌟
