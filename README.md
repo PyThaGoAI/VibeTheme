@@ -20,6 +20,7 @@ No code? No problem. VibeTheme is made for makers at every level.
 
 ---
 <h1>AgriTeach Dashboard </h1>
+
 ![alt text](https://pythago.ai/mthemes/AgriTech.png)
 
 <p>
