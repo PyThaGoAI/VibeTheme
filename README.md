@@ -35,7 +35,7 @@ No code? No problem. VibeTheme is made for makers at every level.
 - **Supabase** – Real-time PostgreSQL database. 🔄🗄️
 
 
----
+
 
 ---
 <h1>BeePulse Dashboard</h1>
@@ -54,7 +54,7 @@ No code? No problem. VibeTheme is made for makers at every level.
 - **Supabase** – Real-time PostgreSQL database. 🔄🗄️
 
 
----
+
 
 ---
 <h1>FishGuard Dashboard</h1>
@@ -73,7 +73,7 @@ No code? No problem. VibeTheme is made for makers at every level.
 - **Supabase** – Real-time PostgreSQL database. 🔄🗄️
 
 
----
+
 ---
 <h1>InduPulse Dashboard</h1>
 
