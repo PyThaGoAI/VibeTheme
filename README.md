@@ -33,7 +33,7 @@ No code? No problem. VibeTheme is made for makers at every level.
 ![alt text](https://pythago.ai/mthemes/AgriTech.png)
 
 <p>
-    <strong>🌟 </strong><a href="!"><strong>Freemium Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Documentation</strong></a>
+    <strong>🌟 </strong><a href="!"><strong>Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Freemium on Lovable Remix </strong></a>
 </p>
 
 
