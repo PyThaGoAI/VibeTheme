@@ -19,7 +19,27 @@ Welcome to **VibeTheme**, the design engine behind the **VibeGalaxi** experience
 No code? No problem. VibeTheme is made for makers at every level.
 
 ![alt text](https://pythago.ai/mthemes/AgriTech.png)
-
+<p>
+    <strong>🌟 </strong><a href="!"><strong>Freemium Demo</strong></a>
+</p>
+<p>
+    <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>
+</p>
+<p>
+    <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>
+</p>
+<p>
+    <strong>📚 </strong><a href="!"><strong>Documentation</strong></a>
+</p>
+<p>
+    🛠️ Stack Tehnic<br>
+    TypeScript: Dezvoltare robustă și scalabilă.<br>
+    Next.js: Performanță rapidă și SEO optimizat.<br>
+    Vercel: Găzduire sigură și scalabilă.<br>
+    Tailwind CSS: Design modern și responsiv.<br>
+    Supabase: Bază de date PostgreSQL în timp real.<br>
+    &nbsp;
+</p>
 
 ---
 
