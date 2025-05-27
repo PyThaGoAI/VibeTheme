@@ -122,6 +122,22 @@ No code? No problem. VibeTheme is made for makers at every level.
 - **Tailwind CSS** – Modern and responsive design. 🎨📱  
 - **Supabase** – Real-time PostgreSQL database. 🔄🗄️
 
+---
+<h1>HomeSphere Dashboard</h1>
+
+![alt text](https://pythago.ai/mthemes/HomeSphere.png)
+
+<p>
+    <strong>🌟 </strong><a href="!"><strong>Freemium Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Documentation</strong></a>
+</p>
+
+🛠️ Tech Stack
+- **TypeScript** – Robust and scalable development. 💪  
+- **Next.js** – Fast performance and SEO-optimized. ⚡🔍  
+- **Vercel** – Secure and scalable hosting. 🛡️🌐  
+- **Tailwind CSS** – Modern and responsive design. 🎨📱  
+- **Supabase** – Real-time PostgreSQL database. 🔄🗄️
+
 ## 🌌 Built for Speed. Designed for Creativity.
 
 With VibeTheme, you're not just downloading templates — you're joining a movement:
