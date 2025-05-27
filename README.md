@@ -19,7 +19,7 @@ Welcome to **VibeTheme**, the design engine behind the **VibeGalaxi** experience
 No code? No problem. VibeTheme is made for makers at every level.
 
 ---
-AgriTeach Dashboard 
+<h1>AgriTeach Dashboard </h1>
 ![alt text](https://pythago.ai/mthemes/AgriTech.png)
 
 <p>
