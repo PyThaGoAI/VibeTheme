@@ -183,7 +183,6 @@ Together, let’s build the future — one template at a time. ✨
 - 🧠 **GitHub**: [PyThaGoAI](https://github.com/PyThaGoAI)
 - 🔗 **LinkedIn**: [Sas Cristian](https://www.linkedin.com/in/sascristian)
 - 🤖 **Hugging Face**: [PyThaGo](https://huggingface.co/PyThaGo)
-- 💼 **UpWork**: *(link missing — you can add it if you have one)*
 - 🚀 **Product Hunt**: [@sas_cristian](https://www.producthunt.com/@sas_cristian)
 - 🛠️ **Codester**: [TeamPresta](https://www.codester.com/TEAMPRESTA)
 - 🎁 **Gumroad**: [iunoub Toolkit](https://sascristian.gumroad.com/l/iunoub)
