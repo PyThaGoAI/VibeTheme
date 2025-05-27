@@ -210,3 +210,9 @@ https://github.com/user-attachments/assets/897e60e3-5ff2-45cc-a5ed-f09cb6782f2a
 - 💬 **Discord**: [Join Community](https://discord.gg/fhAUFF6d)
 - 👕 **Merch Store**: [VibeMerch](https://vibemerch.printify.me)
 
+---
+
+Made with ❤️ by **Cristian Sas**  
+Building AI tools, delivering value, and vibing with the tech community. 🚀  
+Let’s connect, collaborate, or just say hi! 👋
+
