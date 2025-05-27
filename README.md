@@ -33,7 +33,7 @@ No code? No problem. VibeTheme is made for makers at every level.
 ![alt text](https://pythago.ai/mthemes/AgriTech.png)
 
 <p>
-    <strong>🌟 </strong><a href="!"><strong>Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Freemium on Lovable Remix </strong></a>
+    <strong>🌟 </strong><a href="!"><strong>Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Freemium Remix on Lovable</strong></a>
 </p>
 
 
@@ -43,7 +43,7 @@ No code? No problem. VibeTheme is made for makers at every level.
 ![alt text](https://pythago.ai/mthemes/BeePulse.png)
 
 <p>
-    <strong>🌟 </strong><a href="!"><strong>Freemium Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Documentation</strong></a>
+    <strong>🌟 </strong><a href="!"><strong>Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Freemium Remix on Lovable</strong></a>
 </p>
 
 
@@ -53,7 +53,7 @@ No code? No problem. VibeTheme is made for makers at every level.
 ![alt text](https://pythago.ai/mthemes/FishGuard.png)
 
 <p>
-    <strong>🌟 </strong><a href="!"><strong>Freemium Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Documentation</strong></a>
+    <strong>🌟 </strong><a href="!"><strong>Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Freemium Remix on Lovable</strong></a>
 </p>
 
 
@@ -63,8 +63,9 @@ No code? No problem. VibeTheme is made for makers at every level.
 ![alt text](https://pythago.ai/mthemes/InduPulss.png)
 
 <p>
-    <strong>🌟 </strong><a href="!"><strong>Freemium Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Documentation</strong></a>
+    <strong>🌟 </strong><a href="!"><strong>Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Freemium Remix on Lovable</strong></a>
 </p>
+
 
 
 ---
@@ -73,8 +74,9 @@ No code? No problem. VibeTheme is made for makers at every level.
 ![alt text](https://pythago.ai/mthemes/CityPulse.png)
 
 <p>
-    <strong>🌟 </strong><a href="!"><strong>Freemium Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Documentation</strong></a>
+    <strong>🌟 </strong><a href="!"><strong>Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Freemium Remix on Lovable</strong></a>
 </p>
+
 
 ---
 <h1>BioPulse Dashboard</h1>
@@ -82,8 +84,9 @@ No code? No problem. VibeTheme is made for makers at every level.
 ![alt text](https://pythago.ai/mthemes/BioPulse.png)
 
 <p>
-    <strong>🌟 </strong><a href="!"><strong>Freemium Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Documentation</strong></a>
+    <strong>🌟 </strong><a href="!"><strong>Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Freemium Remix on Lovable</strong></a>
 </p>
+
 
 
 ---
@@ -92,8 +95,9 @@ No code? No problem. VibeTheme is made for makers at every level.
 ![alt text](https://pythago.ai/mthemes/HomeSphere.png)
 
 <p>
-    <strong>🌟 </strong><a href="!"><strong>Freemium Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Documentation</strong></a>
+    <strong>🌟 </strong><a href="!"><strong>Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Freemium Remix on Lovable</strong></a>
 </p>
+
 
 
 ---
@@ -102,8 +106,9 @@ No code? No problem. VibeTheme is made for makers at every level.
 ![alt text](https://pythago.ai/mthemes/FlexiKPI.png)
 
 <p>
-    <strong>🌟 </strong><a href="!"><strong>Freemium Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Documentation</strong></a>
+    <strong>🌟 </strong><a href="!"><strong>Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Freemium Remix on Lovable</strong></a>
 </p>
+
 
 ---
 
@@ -112,8 +117,9 @@ No code? No problem. VibeTheme is made for makers at every level.
 ![alt text](https://pythago.ai/mthemes/QuantAura.png)
 
 <p>
-    <strong>🌟 </strong><a href="!"><strong>Freemium Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Documentation</strong></a>
+    <strong>🌟 </strong><a href="!"><strong>Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Freemium Remix on Lovable</strong></a>
 </p>
+
 
 ---
 
