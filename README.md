@@ -194,6 +194,10 @@ We’re here to **learn**, **grow**, and **create** with those who believe in a 
 
 Together, let’s build the future — one template at a time. ✨
 
+
+https://github.com/user-attachments/assets/897e60e3-5ff2-45cc-a5ed-f09cb6782f2a
+
+
 ## 🌐 Find Me Online
 
 - 🧠 **GitHub**: [PyThaGoAI](https://github.com/PyThaGoAI)
