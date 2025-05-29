@@ -152,6 +152,15 @@ VibeTheme offers both **free** and **premium** experiences.
 
 > Premium isn't just about more templates — it’s about a complete creative experience.
 
+🎨 Bought VibeTheme? Now it’s your turn to set the vibe!
+At VibeTheme, YOU help shape the future of design. 🧠💡
+
+➡️ Every customer gets the right to suggest the next Frontend design — and if it gets approved, we’ll build it in just a few days! ⚡️
+
+Minimalist? Futuristic? Bold? You dream it — we make it real. 🔥
+
+💬 Suggest. Vote. Inspire.
+With VibeTheme, you’re not just using a product — you’re part of its evolution.
 ---
 
 ## 🤖 Why AI?
