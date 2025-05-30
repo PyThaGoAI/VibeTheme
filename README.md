@@ -6,7 +6,7 @@
 
 Welcome to **VibeTheme**, the design engine behind the **VibeGalaxi** experience — a premium collection of high-performance templates built for creators who move fast and think big. Whether you're launching a startup, a portfolio, or the next big thing in ecommerce — there's a Vibe for that. 🌟
 
-💸 VibeTheme Premium Presale – Get It for $19 Before It Hits $30!
+💸 VibeTheme Premium Presale – Get It for $19 Before It Hits $39!
 
 https://buy.stripe.com/dRmaEW5QW0qQ6rJbF0cs801
 
