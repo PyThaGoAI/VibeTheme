@@ -130,7 +130,7 @@ No code? No problem. VibeTheme is made for makers at every level.
 
 <h1>VibeCommerce</h1>
 
-![alt text](https://pythago.ai/mthemes/v1.png)
+![alt text](https://pythago.ai/mthemes/1v.png)
 
 <p>
     <strong>🌟 </strong><a href="!"><strong>Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Freemium Remix on Lovable</strong></a>
@@ -141,7 +141,7 @@ No code? No problem. VibeTheme is made for makers at every level.
 
 <h1>VibeCommerce</h1>
 
-![alt text](https://pythago.ai/mthemes/v2.png)
+![alt text](https://pythago.ai/mthemes/2v.png)
 
 <p>
     <strong>🌟 </strong><a href="!"><strong>Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Freemium Remix on Lovable</strong></a>
@@ -152,7 +152,7 @@ No code? No problem. VibeTheme is made for makers at every level.
 
 <h1>VibeCommerce</h1>
 
-![alt text](https://pythago.ai/mthemes/v3.png)
+![alt text](https://pythago.ai/mthemes/3v.png)
 
 <p>
     <strong>🌟 </strong><a href="!"><strong>Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Freemium Remix on Lovable</strong></a>
@@ -163,7 +163,7 @@ No code? No problem. VibeTheme is made for makers at every level.
 
 <h1>VibeCommerce</h1>
 
-![alt text](https://pythago.ai/mthemes/v4.png)
+![alt text](https://pythago.ai/mthemes/4v.png)
 
 <p>
     <strong>🌟 </strong><a href="!"><strong>Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Freemium Remix on Lovable</strong></a>
@@ -174,7 +174,7 @@ No code? No problem. VibeTheme is made for makers at every level.
 
 <h1>VibeCommerce</h1>
 
-![alt text](https://pythago.ai/mthemes/v5.png)
+![alt text](https://pythago.ai/mthemes/5v.png)
 
 <p>
     <strong>🌟 </strong><a href="!"><strong>Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Freemium Remix on Lovable</strong></a>
@@ -185,7 +185,7 @@ No code? No problem. VibeTheme is made for makers at every level.
 
 <h1>VibeCommerce</h1>
 
-![alt text](https://pythago.ai/mthemes/v6.png)
+![alt text](https://pythago.ai/mthemes/6v.png)
 
 <p>
     <strong>🌟 </strong><a href="!"><strong>Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Freemium Remix on Lovable</strong></a>
@@ -196,7 +196,7 @@ No code? No problem. VibeTheme is made for makers at every level.
 
 <h1>VibeCommerce</h1>
 
-![alt text](https://pythago.ai/mthemes/v7.png)
+![alt text](https://pythago.ai/mthemes/7v.png)
 
 <p>
     <strong>🌟 </strong><a href="!"><strong>Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Freemium Remix on Lovable</strong></a>
@@ -208,7 +208,7 @@ No code? No problem. VibeTheme is made for makers at every level.
 
 <h1>VibeCommerce</h1>
 
-![alt text](https://pythago.ai/mthemes/v8.png)
+![alt text](https://pythago.ai/mthemes/8v.png)
 
 <p>
     <strong>🌟 </strong><a href="!"><strong>Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Freemium Remix on Lovable</strong></a>
@@ -219,7 +219,7 @@ No code? No problem. VibeTheme is made for makers at every level.
 
 <h1>VibeCommerce</h1>
 
-![alt text](https://pythago.ai/mthemes/v9.png)
+![alt text](https://pythago.ai/mthemes/9v.png)
 
 <p>
     <strong>🌟 </strong><a href="!"><strong>Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Freemium Remix on Lovable</strong></a>
