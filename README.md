@@ -32,17 +32,7 @@ https://buy.stripe.com/dRmaEW5QW0qQ6rJbF0cs801
 
 No code? No problem. VibeTheme is made for makers at every level.
 
-<h1>VibeCommerce</h1>
-
-![alt text](https://pythago.ai/mthemes/9v.png)
-
-<p>
-    <strong>🌟 </strong><a href="!"><strong>Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Freemium Remix on Lovable</strong></a>
-</p>
-
-
 ---
-
 
 <h1>VibeCommerce</h1>
 
@@ -65,11 +55,19 @@ No code? No problem. VibeTheme is made for makers at every level.
 </p>
 
 
+---
 
+<h1>VibeCommerce</h1>
 
+![alt text](https://pythago.ai/mthemes/9v.png)
+
+<p>
+    <strong>🌟 </strong><a href="!"><strong>Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Freemium Remix on Lovable</strong></a>
+</p>
 
 
 ---
+
 <h1>AgriTeach Dashboard </h1>
 
 ![alt text](https://pythago.ai/mthemes/AgriTech.png)
