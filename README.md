@@ -40,7 +40,7 @@ No code? No problem. VibeTheme is made for makers at every level.
 ![alt text](https://pythago.ai/mthemes/8v.png)
 
 <p>
-    <strong>🌟 </strong><a href="!"><strong>Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Freemium Remix on Lovable</strong></a>
+    <strong>🌟 </strong><a href="!"><strong>Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="https://preview--ultra-ui-ux-hub.lovable.app"><strong>Freemium Remix on Lovable</strong></a>
 </p>
 
 
@@ -52,7 +52,7 @@ No code? No problem. VibeTheme is made for makers at every level.
 ![alt text](https://pythago.ai/mthemes/7v.png)
 
 <p>
-    <strong>🌟 </strong><a href="!"><strong>Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="!"><strong>Freemium Remix on Lovable</strong></a>
+    <strong>🌟 </strong><a href="!"><strong>Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="https://preview--vitality-hover-reveal.lovable.app/?via=VibeTheme"><strong>Freemium Remix on Lovable</strong></a>
 </p>
 
 
