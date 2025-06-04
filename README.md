@@ -11,6 +11,8 @@ Secure your theme now and launch like a pro.
 
 https://buy.stripe.com/dRmaEW5QW0qQ6rJbF0cs801
 
+<a href="https://www.producthunt.com/products/vibetemplates-premium?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-vibetheme" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=956979&theme=neutral&t=1748999568434" alt="VibeTheme - Freemium&#0032;Themes&#0032;with&#0032;Endless&#0032;Variants | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 ---
 
 https://github.com/user-attachments/assets/afc7febd-239f-4412-a3fb-42664ac0bc3e
