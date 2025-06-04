@@ -13,7 +13,7 @@ https://buy.stripe.com/dRmaEW5QW0qQ6rJbF0cs801
 
 <a href="https://www.producthunt.com/products/vibetemplates-premium?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-vibetheme" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=956979&theme=neutral&t=1748999568434" alt="VibeTheme - Freemium&#0032;Themes&#0032;with&#0032;Endless&#0032;Variants | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
-<div style="position: relative; width: 100%; height: 80px; overflow: hidden;"><iframe style="position: absolute; top:0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%;" src="https://4fund.com/4pa632/widget/14" frameborder="0" scrolling="no"></iframe></div>
+
 
 ---
 
