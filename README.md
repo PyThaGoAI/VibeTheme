@@ -188,16 +188,6 @@ https://github.com/user-attachments/assets/96b13a73-0223-46bb-976d-27515aaa3e9b
 
 ---
 
-<h1>Quantaura Dashboard</h1>
-
-![alt text](https://pythago.ai/mthemes/QuantAura.png)
-
-<p>
-    <strong>🌟 </strong><a href="!"><strong>Demo</strong></a>  <strong>💻 </strong><a href="!"><strong>GitHub SourceCode</strong></a>  <strong>🏅</strong><a href="!"><strong> Premium Version</strong></a>   <strong>📚 </strong><a href="https://preview--quantaura-cosmos-dashboard.lovable.app/?via=VibeTheme"><strong>Freemium Remix on Lovable</strong></a>
-</p>
-
-
----
 
 <h1>VibeCommerce</h1>
 
