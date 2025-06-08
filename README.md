@@ -19,6 +19,8 @@ https://buy.stripe.com/dRmaEW5QW0qQ6rJbF0cs801
 
 https://github.com/user-attachments/assets/afc7febd-239f-4412-a3fb-42664ac0bc3e
 
+---
+
 Need a free website? 🧡
 We create free websites for orphanages, elderly homes, animal shelters & churches.
 If you’re part of a cause that needs one, reach out!
@@ -26,7 +28,7 @@ If you’re part of a cause that needs one, reach out!
 ✨ Plus, 10% of all VibeTheme sales go to people in need.
 Let’s build something good together.
 
-
+---
 
 🛠️ Tech Stack
 - **TypeScript** – Robust and scalable development. 💪  
